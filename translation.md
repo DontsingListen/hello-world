@@ -49,6 +49,7 @@ The dex prototype should have the following features:
 - 能够进行币币交易（两种代币都在都一个链中）
 
 Bonus feature:
+
 加分点
 
 - Native on-chain ICO
@@ -136,6 +137,7 @@ A trade should also trigger an execution report. We recommend an execution repor
 ### 撮合引擎
 
 You are free to use on-chain or off-chain matching engines in your design. The main consideration factor should be performance.
+
 你可以在你的设计中自由使用链上或者链外撮合引擎，最主要的考虑因素是性能。
 
 ### Nodes
