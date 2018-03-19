@@ -8,9 +8,11 @@ Decentralized Exchange Coding Competition
 ### Overview
 ### 总览
 Currently, decentralized exchanges are inefficient and difficult to operate for the average user. As a result, they generally have reduced liquidity. Cryptocurrency is evolving at a rapid rate and we must ensure that blockchain technology is able to keep up.
+
 目前，去中心化交易不够高效，并且对普通用户来说存在操作难度。导致它们的交易量日渐减少。但加密货币正以高速发展，所以我们必须确保区块链技术是可以跟上的。
 
 This is an all-hands-on-deck initiative, combining the state-of-the-art technological excellence at Binance and the best of the community to once again push the envelope in blockchain technology.
+
 这是一个结合币安最顶级的技术优势和最好的社区支持，又一次推动区块链技术，呼吁所有人参与的倡议。
 
 In addition to having internal teams working on dex implementation, we will continue our community-driven approach and work closely with our community to build the next generation blockchain.
